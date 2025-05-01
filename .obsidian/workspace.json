@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "99995df688aeb3e8",
+            "id": "d3efeea509ef3bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/过期删除策略.md",
+                "file": "操作系统/内存管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "过期删除策略"
+              "title": "内存管理"
             }
           }
         ],
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/过期删除策略.md",
+                "file": "操作系统/内存管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "过期删除策略 的反向链接列表"
+              "title": "内存管理 的反向链接列表"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/过期删除策略.md",
+                "file": "操作系统/内存管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "过期删除策略 的出链列表"
+              "title": "内存管理 的出链列表"
             }
           },
           {
@@ -204,9 +204,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99995df688aeb3e8",
+  "active": "d3efeea509ef3bdf",
   "lastOpenFiles": [
+    "images/用户空间与内核空间.webp",
+    "images/用户空间与内核空间.webp.crdownload",
+    "images/32位系统二级分页.webp",
+    "images/32位系统二级分页.webp.crdownload",
+    "images/内存分段寻址的方式.webp",
+    "images/内存分段寻址的方式.webp.crdownload",
+    "操作系统/内存管理.md",
+    "操作系统",
     "redis/过期删除策略.md",
+    "redis/管道与事务.md",
+    "redis/大 key.md",
+    "redis/切片集群模式.md",
+    "redis/内存淘汰策略.md",
+    "redis/Redis和Memcached.md",
+    "redis/Redis 实现分布式锁.md",
     "redis/数据结构.md",
     "redis/数据类型.md",
     "redis/对缓存命中率有高要求.md",
@@ -223,9 +237,7 @@
     "images/主从第一次同步的三个阶段.webp",
     "images/主从第一次同步的三个阶段.webp.crdownload",
     "redis/持久化.md",
-    "images/redis写回策略总结.webp",
     "images/redis写回策略总结.webp.crdownload",
-    "images/写入AOF日志的过程.webp",
     "images/写入AOF日志的过程.webp.crdownload",
     "redis/缓存雪崩、穿透、击穿.md",
     "images/缓存雪崩、缓存击穿、缓存穿透的产生原因及应对方案.webp.crdownload",
@@ -233,7 +245,6 @@
     "images/布隆过滤器标记位图数组.webp.crdownload",
     "images",
     "未命名.canvas",
-    "redis",
     "欢迎.md"
   ]
 }

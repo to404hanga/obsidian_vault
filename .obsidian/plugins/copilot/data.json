@@ -282,7 +282,7 @@
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
-  "numPartitions": 1,
+  "numPartitions": 8,
   "promptUsageTimestamps": {},
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [
