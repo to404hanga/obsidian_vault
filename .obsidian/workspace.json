@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/文件系统.md",
+                "file": "redis/Redis和Memcached.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文件系统"
+              "title": "Redis和Memcached"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "644194d9c8c2eea9",
@@ -195,21 +194,6 @@
   },
   "active": "7f5da1d9543f40ca",
   "lastOpenFiles": [
-    "images/LinuxExt2整个文件系统的结构和块组的内容.webp",
-    "images/LinuxExt2整个文件系统的结构和块组的内容.webp.crdownload",
-    "images/早期unix文件系统的存放方式.webp",
-    "images/早期unix文件系统的存放方式.webp.crdownload",
-    "images/顺序分配、链表分配和索引分配的区别.png",
-    "images/顺序分配、链表分配和索引分配的区别.png.crdownload",
-    "images/linux系统用户空间、系统调用、虚拟机文件系统、缓存、文件系统以及存储之间的关系.webp",
-    "images/linux系统用户空间、系统调用、虚拟机文件系统、缓存、文件系统以及存储之间的关系.webp.crdownload",
-    "操作系统/进程间通信.md",
-    "操作系统/进程和线程.md",
-    "操作系统/文件系统.md",
-    "操作系统/互斥与同步.md",
-    "images/udp通信模型.webp",
-    "images/tcp通信模型.webp",
-    "redis/Redis和Memcached.md",
     "redis/Redis 实现分布式锁.md",
     "redis/Cache Aside.md",
     "redis/主从架构.md",
@@ -226,8 +210,23 @@
     "redis/持久化.md",
     "redis/布隆过滤器.md",
     "操作系统/内存管理.md",
-    "进程上下文切换.md",
+    "操作系统/进程间通信.md",
+    "操作系统/进程和线程.md",
     "images/进程的七种状态变迁.webp",
+    "操作系统/互斥与同步.md",
+    "操作系统/文件系统.md",
+    "images/LinuxExt2整个文件系统的结构和块组的内容.webp",
+    "images/LinuxExt2整个文件系统的结构和块组的内容.webp.crdownload",
+    "images/早期unix文件系统的存放方式.webp",
+    "images/早期unix文件系统的存放方式.webp.crdownload",
+    "images/顺序分配、链表分配和索引分配的区别.png",
+    "images/顺序分配、链表分配和索引分配的区别.png.crdownload",
+    "images/linux系统用户空间、系统调用、虚拟机文件系统、缓存、文件系统以及存储之间的关系.webp",
+    "images/linux系统用户空间、系统调用、虚拟机文件系统、缓存、文件系统以及存储之间的关系.webp.crdownload",
+    "images/udp通信模型.webp",
+    "images/tcp通信模型.webp",
+    "redis/Redis和Memcached.md",
+    "进程上下文切换.md",
     "images/进程的七种状态变迁.webp.crdownload",
     "images/进程五种状态的变迁.webp",
     "images/进程五种状态的变迁.webp.crdownload",
@@ -235,7 +234,6 @@
     "images/进程的三种基本状态.webp.crdownload",
     "images/用户空间与内核空间.webp",
     "images/用户空间与内核空间.webp.crdownload",
-    "images/32位系统二级分页.webp",
     "images/32位系统二级分页.webp.crdownload",
     "images/内存分段寻址的方式.webp.crdownload",
     "未命名.canvas",

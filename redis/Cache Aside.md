@@ -39,4 +39,4 @@ redis.delKey(X)
 
 使用 Canal 模拟 MySQL 主从复制到交互协议，把自己伪装成一个 MySQL 的从节点，向 MySQL 主节点发送 dump 请求，MySQL 收到请求后，就会开始推送 Binlog 给 Canal，Canal 解析 Biglog 字节流后，转换为便于读取到结构化数据，供下游程序订阅使用
 
-[img Canal工作流程](../images/canal工作流程.webp)
+![img Canal工作流程](../images/canal工作流程.webp)
